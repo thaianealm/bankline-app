@@ -1,0 +1,17 @@
+.lead-1{
+    font-size: 17px;
+}
+
+.btn-outline-primary {
+    color: #474747;
+    border-color: #474747;
+}
+
+.btn-outline-primary:hover{
+    color: #fff;
+    background-color: #5e5e5e;
+}
+
+.btn-outline-danger:hover{
+    background-color: #aa0000;
+}

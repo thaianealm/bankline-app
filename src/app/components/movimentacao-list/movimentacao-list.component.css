@@ -1,0 +1,32 @@
+.lead-1{
+    font-size: 19px;
+}
+
+.btn-outline-secondary{
+    color: #525252;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.btn-outline-secondary:hover{
+    color: #fff;
+    background-color: #616161;
+}
+
+.btn-outline-primary{
+    background: #c00;
+    padding: 1rem 3rem 1rem 3rem !important;
+    color: #fff;
+    border-radius: 4px;
+    margin-right: 1rem !important;
+    border:none;
+    font-size: 16.5px;
+}
+
+.btn-outline-primary:hover{
+    background-color: #aa0000;
+}
+
+.col{
+    font-size: 17px;
+}
