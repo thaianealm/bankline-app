@@ -7,6 +7,16 @@ Video demo: https://www.youtube.com/watch?v=um9AA1E6xoo
 
 Back-end repository: https://github.com/thaianealm/bankline-api
 
+## Tech Stack
+Back-end:
+- Java
+- Spring Boot
+- PostgreSQL
+
+Front-end:
+- Angular
+- Bootstrap
+
 # BanklineApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
